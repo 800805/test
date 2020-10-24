@@ -1,6 +1,1 @@
-def abs(Number):
-  if Number<0:
-    return -Number
-  else:
-    return Number
-      
+#你来早了，还没写呢
