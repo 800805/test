@@ -31,8 +31,8 @@ jobs:
         twine upload dist/*
         - name: Download a Build Artifact
       uses: actions/download-artifact@v2.0.8
-         with:
+      with:
               # Artifact name
-         name: # optional
+      name: # optional
     # Destination path
-         path: # optional
+      path: # optional
